@@ -11,5 +11,5 @@ class Post
     else
       self.author.name
     end
-  end
+
 end
